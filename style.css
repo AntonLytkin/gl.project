@@ -1,0 +1,34 @@
+#divimg{
+    text-align: center;
+}
+#divimg img{
+    border: 3px solid;
+    margin: 7px;
+}
+#divbutton{
+    padding: 15% 0;
+    text-align: center;
+}
+.link {
+    text-decoration: none;
+    color: #777777;
+}
+.link:hover {
+    border-bottom: 3px solid #000000;
+}
+.foot{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+.footl{
+    display: inline-block;
+    float:left;
+}
+.footc{
+    display: inline-block;
+}
+.footr{
+    display: inline-block;
+    float:right;
+}
